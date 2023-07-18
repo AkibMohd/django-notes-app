@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image :  mohdakib/my-note-app:latest
+     image :  mohdakib/django-app:latest
      ports :
          - "8000:8000"
